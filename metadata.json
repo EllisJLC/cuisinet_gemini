@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop - Grocery Price Finder",
+  "description": "A real-time grocery price comparison tool that uses AI and Google Search to find the most affordable foods and store prices in your specific city and country.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
